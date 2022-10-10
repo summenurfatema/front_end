@@ -15,9 +15,16 @@
 
 # Language and tools for web development
 
-## There are three types of web development. These are ...
+## Every website have to parts.
+- Front end (External look of a website)
+- Back end (Internal fuctionality of a website)
 
-- Front end
-web development.
-- Back end web development.
-- Full stake web development ( combination of front end and back end)
+ #  Basically, Web development joba is devided into three categories.These are ...
+
+- Front end development.
+- Back end development.
+- Full stack development ( combination of front end and back end)
+
+#  1.Front end web development.
+## A front end developer use 
+- HTML (Hyper Text Markup Language).css(cascading style sheet),java (give functionality to web page)
