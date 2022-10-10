@@ -30,6 +30,12 @@
 - ## HTML (Hyper Text Markup Language)
 
 - ## CSS (Cascading Style Sheet)
-- ## JavaScript (give functionality to website)
+- ## JavaScript (a programming language, which gives functionality to website)
 
 >> ## For exemple a website can be compared to a building, which has a sturcture and it's Html .Css is the colouful design of this building . If we press the elevetor buttton it will open or close, which is the simillar job of JavaScript.
+
+# Let's start your front end development journey  with ..
+
+- ## HTML and CSS.
+- ## JavaScript.
+- ## React, Angular, Vue such kind of framework or library  which helps developes to create make a website very fast.
